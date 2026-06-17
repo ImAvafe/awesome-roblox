@@ -85,6 +85,7 @@
 - [roblox-ts](https://roblox-ts.com/)
 - [Moonwave](https://github.com/evaera/moonwave)
 - [Roblox UI](https://github.com/filiptibell/roblox-ui)
+- [Roblox GUI Maker](https://robloxguimaker.dev/)
 - [tooling-language-server](https://github.com/filiptibell/tooling-language-server)
 - [Wasynth](https://github.com/Rerumu/Wasynth)
 
